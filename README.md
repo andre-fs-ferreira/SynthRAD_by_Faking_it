@@ -49,3 +49,9 @@ In the first step, the goal is to stabilize the high variance initially predicte
 Once the network is stable, the variance penalty is removed, and specific training metrics are introduced to refine the model.
 * **Action:** Remove the `--penalize_high_variance` flag.
 * **Required Flags:** Add `--add_train_metric AFP` and `--add_train_metric_weight 0.2`.
+
+---
+
+### 💬 Support
+
+Let me know if something is not clear, please open an issue!
