@@ -69,3 +69,5 @@ test_infer_mc_IDDPM_ultimate.py
 train_mc_IDDPM_multiGPU.py
 test_infer_mc_IDDPM.py
 network/pre_trained/TotalSegmentator/mri/Dataset852_TotalSegMRI_total_3mm_1088subj/nnUNetTrainer_2000epochs_NoMirroring__nnUNetPlans__3d_fullres/fold_0/progress.png
+
+**nnUNet**
