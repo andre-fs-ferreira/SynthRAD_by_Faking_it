@@ -1,0 +1,71 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# Virtual environments
+venv/
+env/
+ENV/
+.venv/
+.env/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# PyTorch model checkpoints
+*.pt
+*.pth
+*.ckpt
+
+# Logs and temporary files
+*.log
+*.out
+*.tmp
+
+# Dataset / cache files
+*.h5
+*.npy
+*.npz
+*.pkl
+*.joblib
+*.tar.gz
+*.zip
+
+# IDE/editor files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# macOS
+.DS_Store
+
+**.sh
+**.xlsx
+**nii.gz
+**.csv
+**.json
+**.txt
+**.log
+**.out
+**.nii
+**.yml
+
+sbatch_out/**
+sbatch_out_task/**
+sbatch_out_final/**
+network/nnUNet
+infer_mc_DPM++.py
+MC-IDDPM main.ipynb
+train_mc_IDDPM copy.py
+test_infer_mc_IDDPM_ultimate.py
+train_mc_IDDPM_multiGPU.py
+test_infer_mc_IDDPM.py
+network/pre_trained/TotalSegmentator/mri/Dataset852_TotalSegMRI_total_3mm_1088subj/nnUNetTrainer_2000epochs_NoMirroring__nnUNetPlans__3d_fullres/fold_0/progress.png
