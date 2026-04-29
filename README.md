@@ -55,3 +55,17 @@ Once the network is stable, the variance penalty is removed, and specific traini
 ### 💬 Support
 
 Let me know if something is not clear, please open an issue!
+
+---
+## 🧠 Citation:
+If you find this repository helpful in your research, please consider citing our work:
+```bibtex
+@misc{moradi2026vsddpmefficientlowcostdiffusion,
+      title={VS-DDPM: Efficient Low-Cost Diffusion Model for Medical Modality Translation}, 
+      author={Nikoo Moradi and Gijs Luijten and Behrus Hinrichs-Puladi and Jens Kleesiek and Victor Alves and Jan Egger and André Ferreira},
+      year={2026},
+      eprint={2604.22942},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={[https://arxiv.org/abs/2604.22942](https://arxiv.org/abs/2604.22942)}, 
+}
